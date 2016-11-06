@@ -7,7 +7,7 @@ Hello!
 
 The idea of the app is simple: Convert Temperature
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/7-MOLDi3OBw "Everything Is AWESOME")
+[![AppConversorUnidadeTemperatura](https://github.com/mvalbuquerque/AppConversorUnidadeTemperatura/blob/master/imgApp.png)](https://youtu.be/7-MOLDi3OBw "@mvalbuquerque")
 
 Tks, 
 
