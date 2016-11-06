@@ -7,9 +7,7 @@ Hello!
 
 The idea of the app is simple: Convert Temperature
 
-
-[![AppConversordeTemperatura](http://i.imgur.com/7YTMFQp.png)](https://github.com/mvalbuquerque/AppConversorUnidadeTemperatura/blob/master/ConversordeTemperatura.m4v "Little red riding hood - Click to Watch!")
-
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/7-MOLDi3OBw "Everything Is AWESOME")
 
 Tks, 
 
